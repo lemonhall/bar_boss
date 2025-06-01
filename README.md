@@ -4,11 +4,15 @@
 
 ## 🎬 效果演示
 
-![Ping-Pong动画演示](bar_boss_screen_live.mp4)
-
 > 📹 **演示视频**: 展示了酒吧老板娘角色的平滑呼吸动画效果，采用ping-pong播放模式，无任何跳跃或违和感。
 
-*如果视频无法播放，请点击 [这里](bar_boss_screen_live.mp4) 下载查看*
+**如何添加视频演示：**
+1. 在GitHub网页端编辑此README.md文件
+2. 将 `bar_boss_screen_live.mp4` 文件直接拖拽到编辑器中
+3. GitHub会自动生成类似这样的链接：`https://github.com/user-attachments/assets/xxx.mp4`
+4. 视频将自动嵌入并可在README中播放
+
+*或者点击 [这里](bar_boss_screen_live.mp4) 下载查看演示视频*
 
 ### ✨ 效果特点
 - 🔄 **平滑循环**: 从第一帧到最后一帧，再反向播放回第一帧
