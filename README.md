@@ -4,6 +4,9 @@
 
 ## 🎬 效果演示
 
+https://github.com/user-attachments/assets/a8d427d9-366f-46e9-8eb1-3e9d98d7de9d
+
+
 > 📹 **演示视频**: 展示了酒吧老板娘角色的平滑呼吸动画效果，采用ping-pong播放模式，无任何跳跃或违和感。
 
 **如何添加视频演示：**
